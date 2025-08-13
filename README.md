@@ -38,5 +38,6 @@ Graphs showing crime patterns and trends.
 
 demo
 <img width="1911" height="933" alt="image" src="https://github.com/user-attachments/assets/08252882-94f1-4815-8def-8b2fc9d1bcb5" />
-<img width="1911" height="933" alt="image" src="https://github.com/user-attachments/assets/b536136c-1fed-46e4-af15-c425f91ea8a3" />
+<img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/c9eaf22a-c7f9-41b4-b328-e1a20f2d249a" />
+
 
