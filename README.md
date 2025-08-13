@@ -14,7 +14,7 @@ Scikit-learn – Machine learning
 
 How to Run
 Clone the Repository
-git clone https://github.com/Rushi28-web/crime-prediction/edit/main/README.md
+git clone https://github.com/Rushi28-web/crime-prediction
 cd crime-prediction
 
 Install Required Libraries
